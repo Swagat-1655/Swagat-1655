@@ -1,4 +1,4 @@
-## Hi there,
+## Hi there 👋,
 
 I’m **Shree Swagat Srinivash Majhi**, a passionate competitive programmer and machine learning enthusiast with a strong interest in solving complex problems and building intelligent systems.
 
